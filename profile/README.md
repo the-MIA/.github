@@ -1,1 +1,1 @@
-MIA - Maintainande Initiative for Ada
+MIA - Maintainance Initiative for Ada
